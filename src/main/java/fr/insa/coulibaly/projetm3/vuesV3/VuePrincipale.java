@@ -19,7 +19,7 @@ import java.sql.SQLException;
  * @author Amadou Coulibaly
  */
 @PageTitle("Login")
-@Route(value = "V3")
+@Route(value = "")
 public class VuePrincipale extends VerticalLayout {
 
     private Connection conn;

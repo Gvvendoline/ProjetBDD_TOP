@@ -23,7 +23,7 @@ import java.util.Optional;
  * @author Amadou Coulibaly
  */
 @PageTitle("Login")
-@Route(value = "")
+@Route(value = "V1")
 public class VueLogin extends VerticalLayout {
 
     private Connection conn;
